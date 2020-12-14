@@ -2,3 +2,4 @@
 venv
 *.pyc
 countries.txt
+log.txt
